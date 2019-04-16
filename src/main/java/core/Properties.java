@@ -7,6 +7,7 @@ public class Properties {
      */
 
     public static boolean FECHAR_BOWSER = false;
+
     public static Browsers browsers = Browsers.CHROME;
 
     public enum Browsers {
